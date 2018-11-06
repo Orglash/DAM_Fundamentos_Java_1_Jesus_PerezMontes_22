@@ -106,5 +106,7 @@ public class Main {
                 System.out.println("El número de opción seleccionada no existe.\n");
                 break;
         }
+        //Cerramos el scanner.
+        sc.close();
     }
 }
