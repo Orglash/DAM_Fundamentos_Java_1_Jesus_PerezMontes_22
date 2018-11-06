@@ -97,9 +97,9 @@ public class Main {
                 }
                 //Comprobamos la variable capicua para mostrar el resultado adecuado.
                 if(capicua){
-                    System.out.println("El número introducido es capicua.");
+                    System.out.println("El número introducido es capicúa.");
                 }else{
-                    System.out.println("El número introducido no es capicua.");
+                    System.out.println("El número introducido no es capicúa.");
                 }
                 break;
             default:
